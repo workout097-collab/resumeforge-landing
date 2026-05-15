@@ -51,7 +51,7 @@ export default function Home() {
         <div className="mt-10 flex gap-5 relative z-10">
 
           <a
-              href="https://t.me/YOUR_BOT_USERNAME"
+              href="https://t.me/resumeforge_ai_bot"
               target="_blank"
               className="bg-white text-black px-8 py-4 rounded-2xl font-semibold hover:scale-105 transition"
             >
